@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 006
+su  betty
