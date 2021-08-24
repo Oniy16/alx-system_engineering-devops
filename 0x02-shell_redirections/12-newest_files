@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -5
+ls -l --sort=time | head -10
