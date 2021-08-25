@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u | find . \w
+ls -X | uniq -u
