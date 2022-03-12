@@ -1,1 +1,1 @@
-# 0x0A. Configuration management
+it is not empty
